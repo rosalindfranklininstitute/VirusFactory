@@ -1,0 +1,51 @@
+{
+    "class_names": [
+        "DLP E",
+        "DLP F",
+        "DLP w",
+        "NaN",
+        "None ",
+        "SLP",
+        "There",
+        "Too c"
+    ],
+    "dataset_name": "dataset",
+    "entities_offset": [
+        16,
+        450,
+        450
+    ],
+    "gold_offset": [
+        16,
+        450,
+        450
+    ],
+    "main_bv_name": "main",
+    "main_bv": {
+        
+        "main2": {
+            "bb": [
+                16,
+                144,
+                450,
+                1900,
+                450,
+                1900
+            ],
+            "key_coords": [
+                [
+                    16,
+                    450,
+                    450
+                ],
+                [
+                    128,
+                    1450,
+                    1450
+                ]
+            ]
+        }
+    },
+    "proj": "vf",
+    "workspace": "test_vf"
+}
